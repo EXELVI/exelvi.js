@@ -1,0 +1,22 @@
+{
+  "name": "exelvi",
+  "version": "1.0.0",
+  "description": "A core library for my projects",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EXELVI/exelvi.js.git"
+  },
+  "author": "EXELVI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EXELVI/exelvi.js/issues"
+  },
+  "homepage": "https://github.com/EXELVI/exelvi.js#readme",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}
